@@ -1,0 +1,7 @@
+input_shapefile:
+  class: Directory
+  path: Input_feature
+
+join_shapefile:
+  class: Directory
+  path: join_feature
