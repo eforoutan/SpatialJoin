@@ -18,15 +18,23 @@ inputs:
     inputBinding:
       position: 2
 
+  geojson_file_name:
+    type: string
+    default: spatial_joined.json
+    inputBinding:
+      position: 3
+  csv_file_name:
+    type: string
+    default: default.csv
+    inputBinding:
+      position: 4
+
 outputs:
-
-  spatial_joined_GeoJSON:
-    type: File  
+  output_csv:
+    type: File
     outputBinding:
-      glob: "spatial_joined_shapefile.geojson"
-
-
-  spatial_joined_CSV:
-    type: File  
+      glob: "$(inputs.csv_file_name)"
+  output_geojson:
+    type: File
     outputBinding:
-      glob: "spatial_joined_csv.csv"
+      glob: "$(inputs.geojson_file_name)"

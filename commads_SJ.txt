@@ -1,4 +1,4 @@
-python .\spatialjoin_shp.py "C:/CWL/spatial/SpatialJoin/Input_feature/Mesonet_OK.shp" "C:/CWL/spatial/SpatialJoin/join_feature/OK_Counties.shp"
+python .\spatialjoin_shp.py "C:/CWL/spatial/SpatialJoin/Input_feature/Mesonet_OK.shp" "C:/CWL/spatial/SpatialJoin/join_feature/OK_Counties.shp" "test.geojson" "test2.csv"
 
 docker build -t eforoutan/spatialjoin_shp:latest .
 
@@ -9,4 +9,3 @@ docker push eforoutan/spatialjoin_shp
 wsl -d Ubuntu
 
 cwltool spatialjoin_shp.cwl spatialjoin_shp.yml
-

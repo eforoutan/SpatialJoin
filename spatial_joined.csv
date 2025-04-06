@@ -1,0 +1,137 @@
+stid,name,index_right,OBJECTID,STATEFP,COUNTYFP,CountyName
+ACME,Acme,25,26,40,051,Grady
+ADAX,Ada,61,62,40,123,Pontotoc
+ALTU,Altus,32,33,40,065,Jackson
+ALV2,Alva,75,76,40,151,Woods
+ANT2,Antlers,63,64,40,127,Pushmataha
+APAC,Apache,7,8,40,015,Caddo
+ARD2,Ardmore,9,10,40,019,Carter
+ARNE,Arnett,22,23,40,045,Ellis
+BEAV,Beaver,3,4,40,007,Beaver
+BESS,Bessie,74,75,40,149,Washita
+BIXB,Bixby,71,72,40,143,Tulsa
+BLAC,Blackwell,35,36,40,071,Kay
+BOIS,Boise City,12,13,40,025,Cimarron
+BREC,Breckinridge,23,24,40,047,Garfield
+BRIS,Bristow,18,19,40,037,Creek
+BROK,Broken Bow,44,45,40,089,McCurtain
+BUFF,Buffalo,29,30,40,059,Harper
+BURB,Burbank,56,57,40,113,Osage
+BURN,Burneyville,42,43,40,085,Love
+BUTL,Butler,19,20,40,039,Custer
+BYAR,Byars,24,25,40,049,Garvin
+CAMA,Camargo,21,22,40,043,Dewey
+CARL,Lake Carl Blackwell,59,60,40,119,Payne
+CENT,Centrahoma,14,15,40,029,Coal
+CHAN,Chandler,40,41,40,081,Lincoln
+CHER,Cherokee,1,2,40,003,Alfalfa
+CHEY,Cheyenne,64,65,40,129,Roger Mills
+CHIC,Chickasha,25,26,40,051,Grady
+CLAR,Claremore,65,66,40,131,Rogers
+CLAY,Clayton,63,64,40,127,Pushmataha
+CLOU,Cloudy,63,64,40,127,Pushmataha
+CLRM,Claremore,65,66,40,131,Rogers
+COOK,Cookson,10,11,40,021,Cherokee
+COPA,Copan,73,74,40,147,Washington
+DURA,Durant,6,7,40,013,Bryan
+ELKC,Elk City,4,5,40,009,Beckham
+ELRE,El Reno,8,9,40,017,Canadian
+ERIC,Erick,4,5,40,009,Beckham
+EUFA,Eufaula,45,46,40,091,McIntosh
+EVAX,Eva,69,70,40,139,Texas
+FAIR,Fairview,46,47,40,093,Major
+FITT,Fittstown,61,62,40,123,Pontotoc
+FORA,Foraker,56,57,40,113,Osage
+FREE,Freedom,76,77,40,153,Woodward
+FTCB,Fort Cobb,7,8,40,015,Caddo
+GOOD,Goodwell,69,70,40,139,Texas
+GRA2,Grandfield,70,71,40,141,Tillman
+GRAN,Grandfield,70,71,40,141,Tillman
+GUTH,Guthrie,41,42,40,083,Logan
+HASK,Haskell,50,51,40,101,Muskogee
+HECT,Hectorville,55,56,40,111,Okmulgee
+HINT,Hinton,7,8,40,015,Caddo
+HOBA,Hobart,37,38,40,075,Kiowa
+HOLD,Holdenville,31,32,40,063,Hughes
+HOLL,Hollis,28,29,40,057,Harmon
+HOOK,Hooker,69,70,40,139,Texas
+HUGO,Hugo,11,12,40,023,Choctaw
+IDAB,Idabel,44,45,40,089,McCurtain
+INOL,Inola,65,66,40,131,Rogers
+JAYX,Jay,20,21,40,041,Delaware
+KENT,Kenton,12,13,40,025,Cimarron
+KETC,Ketchum Ranch,68,69,40,137,Stephens
+KIN2,Kingfisher,36,37,40,073,Kingfisher
+KING,Kingfisher,36,37,40,073,Kingfisher
+LAHO,Lahoma,46,47,40,093,Major
+LANE,Lane,2,3,40,005,Atoka
+MADI,Madill,47,48,40,095,Marshall
+MANG,Mangum,27,28,40,055,Greer
+MARE,Marena,59,60,40,119,Payne
+MARS,Marshall,41,42,40,083,Logan
+MAYR,May Ranch,75,76,40,151,Woods
+MCAL,McAlester,60,61,40,121,Pittsburg
+MEDF,Medford,26,27,40,053,Grant
+MEDI,Medicine Park,15,16,40,031,Comanche
+MIAM,Miami,57,58,40,115,Ottawa
+MINC,Minco,25,26,40,051,Grady
+MRSH,Marshall,41,42,40,083,Logan
+MTHE,Mt Herman,44,45,40,089,McCurtain
+NEWK,Newkirk,35,36,40,071,Kay
+NEWP,Newport,9,10,40,019,Carter
+NINN,Ninnekah,25,26,40,051,Grady
+NORM,Norman,13,14,40,027,Cleveland
+NOWA,Nowata,52,53,40,105,Nowata
+NRMN,Norman,13,14,40,027,Cleveland
+OILT,Oilton,18,19,40,037,Creek
+OKCE,Oklahoma City East,54,55,40,109,Oklahoma
+OKCN,Oklahoma City North,54,55,40,109,Oklahoma
+OKCW,Oklahoma City West,54,55,40,109,Oklahoma
+OKEM,Okemah,53,54,40,107,Okfuskee
+OKMU,Okmulgee,55,56,40,111,Okmulgee
+PAUL,Pauls Valley,24,25,40,049,Garvin
+PAWN,Pawnee,58,59,40,117,Pawnee
+PERK,Perkins,59,60,40,119,Payne
+PORT,Porter,72,73,40,145,Wagoner
+PRES,Preston,55,56,40,111,Okmulgee
+PRYO,Pryor,48,49,40,097,Mayes
+PUTN,Putnam,21,22,40,043,Dewey
+REDR,Red Rock,51,52,40,103,Noble
+RETR,Retrop,74,75,40,149,Washita
+RING,Ringling,33,34,40,067,Jefferson
+SALL,Sallisaw,67,68,40,135,Sequoyah
+SEIL,Seiling,76,77,40,153,Woodward
+SEMI,Seminole,66,67,40,133,Seminole
+SHAW,Shawnee,62,63,40,125,Pottawatomie
+SKIA,Skiatook,56,57,40,113,Osage
+SLAP,Slapout,3,4,40,007,Beaver
+SPEN,Spencer,54,55,40,109,Oklahoma
+STIG,Stigler,30,31,40,061,Haskell
+STIL,Stillwater,59,60,40,119,Payne
+STUA,Stuart,60,61,40,121,Pittsburg
+SULP,Sulphur,49,50,40,099,Murray
+TAHL,Tahlequah,10,11,40,021,Cherokee
+TALA,Talala,65,66,40,131,Rogers
+TALI,Talihina,39,40,40,079,Le Flore
+TIPT,Tipton,70,71,40,141,Tillman
+TISH,Tishomingo,34,35,40,069,Johnston
+TULL,Tullahassee,72,73,40,145,Wagoner
+TULN,Tulsa,71,72,40,143,Tulsa
+VALL,Valliant,44,45,40,089,McCurtain
+VANO,Vanoss,61,62,40,123,Pontotoc
+VINI,Vinita,17,18,40,035,Craig
+WAL2,Walters,16,17,40,033,Cotton
+WALT,Walters,16,17,40,033,Cotton
+WASH,Washington,43,44,40,087,McClain
+WATO,Watonga,5,6,40,011,Blaine
+WAUR,Waurika,33,34,40,067,Jefferson
+WEAT,Weatherford,19,20,40,039,Custer
+WEB3,Webbers Falls,50,51,40,101,Muskogee
+WEBB,Webbers Falls,50,51,40,101,Muskogee
+WEBR,Webbers Falls,50,51,40,101,Muskogee
+WEST,Westville,0,1,40,001,Adair
+WILB,Wilburton,38,39,40,077,Latimer
+WIST,Wister,39,40,40,079,Le Flore
+WOOD,Woodward,76,77,40,153,Woodward
+WYNO,Wynona,56,57,40,113,Osage
+YUKO,Yukon,8,9,40,017,Canadian

@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "spatial_joined_shapefile",
+"name": "spatial_joined",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "stid": "ACME", "name": "Acme", "index_right": 25, "OBJECTID": 26, "STATEFP": "40", "COUNTYFP": "051", "CountyName": "Grady" }, "geometry": { "type": "Point", "coordinates": [ -98.02325, 34.80833, 397.0 ] } },

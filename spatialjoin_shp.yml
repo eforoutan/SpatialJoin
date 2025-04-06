@@ -5,3 +5,7 @@ input_shapefile:
 join_shapefile:
   class: Directory
   path: join_feature
+
+geojson_file_name: "spatial_joined.geojson"
+
+csv_file_name: "spatial_joined.csv"
