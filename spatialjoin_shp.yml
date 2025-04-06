@@ -1,10 +1,14 @@
 input_shapefile:
-  class: Directory
-  path: Input_feature
+  # class: Directory
+  # path: Input_feature
+  class: File
+  path: OK_Counties.geojson
 
 join_shapefile:
-  class: Directory
-  path: join_feature
+  # class: Directory
+  # path: join_feature
+  class: File
+  path: OK_Counties.geojson
 
 geojson_file_name: "spatial_joined.geojson"
 

@@ -9,12 +9,16 @@ hints:
  
 inputs:
   input_shapefile:
-    type: Directory
+    type:
+      - File
+      - Directory
     inputBinding:
       position: 1
  
   join_shapefile:
-    type: Directory
+    type:
+      - File
+      - Directory
     inputBinding:
       position: 2
 
